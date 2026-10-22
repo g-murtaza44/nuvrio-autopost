@@ -1,0 +1,15 @@
+{
+  "page_name": "Nuvrio",
+  "handle": "@nuvrio.official",
+  "hashtags": "#business #finance #money #startup #pakistan #entrepreneur #learning",
+  "colors": {
+    "background": "#0F1B2D",
+    "accent": "#F2B134",
+    "title": "#FFFFFF",
+    "body": "#C9D3E0",
+    "footer": "#7F8DA3"
+  },
+  "graph_api_version": "v25.0",
+  "post_to_facebook_page_too": true,
+  "when_all_posts_used": "stop"
+}

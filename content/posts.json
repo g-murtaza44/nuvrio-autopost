@@ -1,0 +1,182 @@
+[
+  {
+    "label": "MONEY LESSON",
+    "title": "Profit is not cash",
+    "body": "A business can show profit on paper and still run out of money. Profit is an accounting number. Cash is what pays salaries, rent and suppliers. Track both, every month.",
+    "caption": "Many businesses that close were profitable on paper. They simply ran out of cash. Watch your cash flow as closely as your profit."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Break-even point",
+    "body": "The sales level where total revenue equals total cost. Below it you lose money, above it you earn.\n\nBreak-even units = Fixed costs ÷ (Price − Variable cost per unit)",
+    "caption": "Before starting anything, know how much you must sell just to stop losing money. That number is your break-even point."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Gross profit vs Net profit",
+    "body": "Gross profit = Sales − Cost of goods sold.\n\nNet profit = What is left after ALL expenses: rent, salaries, utilities, interest and tax.",
+    "caption": "A high gross profit means nothing if your expenses eat all of it. Always look at net profit too."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Fixed vs Variable costs",
+    "body": "Fixed costs stay the same no matter how much you sell, like rent.\n\nVariable costs rise and fall with sales, like raw material and packaging.",
+    "caption": "Knowing which costs are fixed and which are variable is the first step to pricing your product correctly."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Working capital",
+    "body": "Working capital = Current assets − Current liabilities.\n\nIt shows whether a business can pay its short-term bills from its short-term resources.",
+    "caption": "Negative working capital is an early warning sign. Healthy businesses keep enough to cover their near-term obligations."
+  },
+  {
+    "label": "MONEY LESSON",
+    "title": "The power of compounding",
+    "body": "Compounding means earning returns on your previous returns. Over time, growth builds on growth. The earlier you start, the more time does the heavy lifting.",
+    "caption": "Time is the biggest ingredient in compounding. Small amounts started early can beat large amounts started late."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Opportunity cost",
+    "body": "The value of the next best option you give up when you make a choice.\n\nEvery decision has a hidden cost: what you could have done instead.",
+    "caption": "When you choose one thing, you are also choosing not to do something else. Smart decisions count that cost too."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Contribution margin",
+    "body": "Contribution margin = Selling price − Variable cost per unit.\n\nIt is what each sale contributes toward covering fixed costs, and after that, toward profit.",
+    "caption": "Products with a higher contribution margin do more work for your business. Know this number for everything you sell."
+  },
+  {
+    "label": "PRICING LESSON",
+    "title": "Markup is not margin",
+    "body": "Cost 100, selling price 150.\n\nMarkup = 50 ÷ 100 = 50%\nMargin = 50 ÷ 150 = 33.3%\n\nMixing them up leads to wrong pricing.",
+    "caption": "Markup is calculated on cost. Margin is calculated on selling price. Same rupees, different percentages."
+  },
+  {
+    "label": "STARTUP TERM",
+    "title": "Customer Acquisition Cost",
+    "body": "CAC = Total sales and marketing spend ÷ Number of new customers gained.\n\nIt tells you how much it costs to win one customer.",
+    "caption": "If you do not know what it costs to get a customer, you cannot know if your growth is profitable."
+  },
+  {
+    "label": "STARTUP TERM",
+    "title": "Customer Lifetime Value",
+    "body": "LTV is the total profit a customer brings over the whole relationship with your business.\n\nIf LTV is lower than the cost of acquiring that customer, growth burns money.",
+    "caption": "Repeat customers are where real profit lives. Compare lifetime value with acquisition cost before spending on growth."
+  },
+  {
+    "label": "STARTUP TERM",
+    "title": "Bootstrapping",
+    "body": "Building a business with your own savings and the revenue it earns, without outside investors.\n\nYou keep full ownership and control, but growth depends on your own cash.",
+    "caption": "Many strong businesses started bootstrapped. It forces discipline: every rupee has to earn its place."
+  },
+  {
+    "label": "STARTUP TERM",
+    "title": "MVP",
+    "body": "Minimum Viable Product: the simplest version of your product that lets you test whether people will actually use it and pay for it.\n\nLaunch small. Learn fast.",
+    "caption": "Do not spend months perfecting something nobody has asked for. Build the simplest version and test it with real customers."
+  },
+  {
+    "label": "STARTUP TERM",
+    "title": "Burn rate",
+    "body": "Burn rate is how much more cash a company spends than it earns, per month.\n\nA company earning 2 lakh and spending 5 lakh has a burn rate of 3 lakh.",
+    "caption": "Burn rate tells you how fast the money is disappearing. Every founder should know this number by heart."
+  },
+  {
+    "label": "STARTUP TERM",
+    "title": "Runway",
+    "body": "Runway = Cash in bank ÷ Monthly burn rate.\n\n30 lakh in the bank with a 3 lakh monthly burn means 10 months of runway.",
+    "caption": "Runway is how many months you have before the money runs out. Plan your next move well before it ends."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Equity",
+    "body": "Equity is ownership in a company.\n\nGiving away 20% equity means giving away 20% of the ownership and a 20% share in future profits.",
+    "caption": "Equity is the most expensive thing a founder can give away. Understand it fully before you sign anything."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Revenue vs Net income",
+    "body": "Revenue is the total money earned from sales.\n\nNet income is what remains after every expense is paid.\n\nBig revenue does not always mean big earnings.",
+    "caption": "Revenue is the top line. Net income is the bottom line. The bottom line is what you actually keep."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Depreciation",
+    "body": "Spreading the cost of a long-term asset, like a machine or vehicle, over its useful life instead of expensing it all at once.\n\nIt matches the cost with the years the asset is used.",
+    "caption": "A machine that works for 10 years should not hit your profit all in one year. That is what depreciation fixes."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Inventory turnover",
+    "body": "How many times a business sells and replaces its stock in a period.\n\nSlow turnover means money is sitting on shelves instead of working for you.",
+    "caption": "Stock that does not move is cash that is stuck. Fast-moving inventory keeps a business healthy."
+  },
+  {
+    "label": "MONEY LESSON",
+    "title": "Build an emergency fund",
+    "body": "A common guideline is to keep 3 to 6 months of essential expenses saved before you start investing or taking big risks.\n\nIt protects you when life surprises you.",
+    "caption": "An emergency fund is not an investment. It is protection, so one bad month does not become a crisis."
+  },
+  {
+    "label": "MONEY LESSON",
+    "title": "What inflation does",
+    "body": "When prices rise, the same amount of money buys less.\n\nMoney kept idle for years quietly loses its value.",
+    "caption": "Inflation is a silent cost. Understanding it is the first step to protecting what you earn."
+  },
+  {
+    "label": "MONEY LESSON",
+    "title": "Diversification",
+    "body": "Spreading your money across different investments so that one loss does not sink everything.\n\nIn simple words: do not put all your eggs in one basket.",
+    "caption": "Diversification does not remove risk, but it stops a single bad outcome from wiping you out."
+  },
+  {
+    "label": "PRICING LESSON",
+    "title": "Price on value, not just cost",
+    "body": "Cost tells you the minimum you can charge.\n\nThe value your customer sees tells you what you could charge.\n\nThe best pricing sits between the two.",
+    "caption": "Cost-plus pricing is a floor, not a strategy. Understand what your product is worth to the customer."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Receivables",
+    "body": "Receivables are money your customers owe you for sales made on credit.\n\nA credit sale is not cash until it is collected.",
+    "caption": "Selling is half the job. Collecting is the other half. Keep a close eye on who owes you and for how long."
+  },
+  {
+    "label": "MONEY LESSON",
+    "title": "The Rule of 72",
+    "body": "Divide 72 by the yearly return rate to estimate how many years it takes for money to double.\n\nAt 12% a year: 72 ÷ 12 = about 6 years.",
+    "caption": "A quick mental shortcut every investor should know. It is an estimate, but a surprisingly good one."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Overheads",
+    "body": "Ongoing business costs that are not tied to one specific product: rent, utilities, admin salaries, internet.\n\nThey must be covered whether you sell or not.",
+    "caption": "Overheads are easy to ignore and hard to cut later. Keep them lean, especially in the early days."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Economies of scale",
+    "body": "As production grows, the cost per unit usually falls, because fixed costs are spread over more units.\n\nThis is why big players can often sell cheaper.",
+    "caption": "Scale changes the math of a business. More units can mean a lower cost for each one."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Liquidity",
+    "body": "How quickly an asset can be turned into cash without losing value.\n\nCash is the most liquid asset. Property and machinery are much less liquid.",
+    "caption": "Owning valuable assets is not the same as having money available. Liquidity is what saves you in a tight spot."
+  },
+  {
+    "label": "BUSINESS TERM",
+    "title": "Assets vs Liabilities",
+    "body": "Assets are what you own that has value: cash, stock, equipment, money owed to you.\n\nLiabilities are what you owe: loans, unpaid bills, payables.",
+    "caption": "Assets minus liabilities gives equity, the true value that belongs to the owner."
+  },
+  {
+    "label": "MONEY LESSON",
+    "title": "Ignore sunk costs",
+    "body": "A sunk cost is money already spent that cannot be recovered.\n\nGood decisions look at future costs and benefits only, not at what is already gone.",
+    "caption": "\"I have already spent so much on this\" is not a reason to keep going. Decide based on what comes next."
+  }
+]
